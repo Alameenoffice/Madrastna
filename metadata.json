@@ -1,0 +1,6 @@
+{
+  "name": "مدرستي",
+  "description": "منصة مدرستي المتكاملة لإدارة التواصل المدرسي الشامل ومتابعة الحضور والواجبات والدرجات ولوحة الشرف",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

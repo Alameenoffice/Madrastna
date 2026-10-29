@@ -1,0 +1,9 @@
+{
+  "name": "madrasati-platform",
+  "version": "1.0.0",
+  "private": true,
+  "description": "منصة مدرستي لإدارة التواصل المدرسي الشامل",
+  "scripts": {
+    "build": "mkdir -p dist && cp -r app/src/main/assets/public/* dist/"
+  }
+}
